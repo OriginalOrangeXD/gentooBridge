@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/OriginalOrangeXD/gentooBridge/master/penguin.png)
+![Logo of the project](https://github.com/OriginalOrangeXD/gentooBridge/blob/main/penguin.png)
 
 # Bridge Setup 
 > My experence with setting up a bridged network on gentoo 
@@ -54,7 +54,8 @@ The config file is located in the netplan_config.yaml
 
 After applying changes run 
 ```shell
-sudo netplan apply```
+sudo netplan apply
+```
 
 ## Features
 
