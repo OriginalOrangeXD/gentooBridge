@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/OriginalOrangeXD/gentooBridge/blob/main/penguin.png)
+<img src="penguin.png" alt="drawing" width="200"/>
 
 # Bridge Setup 
 > My experence with setting up a bridged network on gentoo 
